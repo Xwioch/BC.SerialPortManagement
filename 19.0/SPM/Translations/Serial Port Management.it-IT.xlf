@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="xml" source-language="en-US" target-language="it-IT">
+    <body>
+      <group id="body">
+        <trans-unit id="Enum 1296493595 - EnumValue 1362454361 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Odd</source>
+          <target>Odd</target>
+        </trans-unit>
+        <trans-unit id="Enum 1296493595 - EnumValue 3371220206 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>None</source>
+          <target>None</target>
+        </trans-unit>
+        <trans-unit id="Enum 1296493595 - EnumValue 459744604 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Even</source>
+          <target>Even</target>
+        </trans-unit>
+        <trans-unit id="Enum 1296493595 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Parity Type (SPM)</source>
+          <target>Parità (SPM)</target>
+        </trans-unit>
+        <trans-unit id="Enum 2265433141 - EnumValue 229761720 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Hardware</source>
+          <target>Hardware</target>
+        </trans-unit>
+        <trans-unit id="Enum 2265433141 - EnumValue 3371220206 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>None</source>
+          <target>None</target>
+        </trans-unit>
+        <trans-unit id="Enum 2265433141 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Flow Control Type (SPM)</source>
+          <target>Tipo di handshake (SPM)</target>
+        </trans-unit>
+        <trans-unit id="Enum 2349116022 - EnumValue 229761720 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Two</source>
+          <target>Two</target>
+        </trans-unit>
+        <trans-unit id="Enum 2349116022 - EnumValue 3592160600 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>One</source>
+          <target>One</target>
+        </trans-unit>
+        <trans-unit id="Enum 2349116022 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Stop Bits (SPM)</source>
+          <target>Stop Bits (SPM)</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 3698873769 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Close the connection with the selected serial port</source>
+          <target>Chiude la connessione con la porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 3698873769 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Close Port</source>
+          <target>Chiudi porta</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 412498751 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Delete all the lines on the terminal subform</source>
+          <target>Elimina tutte le righe contenute nel terminale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 412498751 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Clear Terminal</source>
+          <target>Pulisci terminale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 617737079 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Open the connection with the selected serial port</source>
+          <target>Apre la connessione con la porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 617737079 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Open Port</source>
+          <target>Apri porta</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1520953681 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Terminal</source>
+          <target>Terminale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 1001629221" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Serial connection established</source>
+          <target>Connessione seriale stabilita</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 1051253129" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Serial connection closed</source>
+          <target>Connessione seriale chiusa</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 2089806789" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Connection is closing, this could take a while...</source>
+          <target>La connessione si sta chiudendo, potrebbe volerci un po' di tempo...</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 2182730486" translate="yes" size-unit="char" xml:space="preserve">
+          <source>There was a problem sending the message to the serial port. Check the communication</source>
+          <target>Si è verificato un problema durante l'invio del messaggio alla portale seriale. Verificare la connessione.</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 2830783094" translate="yes" size-unit="char" xml:space="preserve">
+          <source>There was an error while trying to open or close the serial port</source>
+          <target>Si è verificato un errore nell'apertura/chiusura della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 3048632393" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Serial feature not available for the web browser. Check all the features on the settings or check if SSL is enabled</source>
+          <target>La funzionalità Web Serial API non è disponibile. Verificare le impostazioni del browser e controllare se il tipo ha una connessione sicura (HTTPS/SSL)</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1588750063 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies if the message must be sent with \r\n characters</source>
+          <target>Specifica se il messaggio deve essere inviato con i caratteri di line feed/carriage return \r\n</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1588750063 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Send with line feed</source>
+          <target>Invia con \r\n</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1620301654 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the connection status for the selected serial port</source>
+          <target>Specifica il codice della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1620301654 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Status</source>
+          <target>Stato</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1620301654 - Property 62802879" translate="yes" size-unit="char" xml:space="preserve">
+          <source> ,Connected,Failed,In Progress</source>
+          <target> ,Connesso,Fallito,In corso</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1759782632 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the stop bits for the serial port</source>
+          <target>Specifica i stop bits della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1860025631 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the buffer size for the serial port</source>
+          <target>Specifica la dimensione del buffer della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 2346885236 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Options</source>
+          <target>Opzioni</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 2487161833 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the message to send on the serial port</source>
+          <target>Specifica il messaggio che deve essere inviato alla porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 2487161833 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Send</source>
+          <target>Invia</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 2505414041 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the parity type for the serial port</source>
+          <target>Specifica il tipo di parità della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 2794064752 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the data bits for the serial port</source>
+          <target>Specifica i data bits della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 3461834954 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the configuration description of the serial port</source>
+          <target>Specifica la descrizione della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 3467078241 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the exception from the javascript add-in</source>
+          <target>Specifica l'eccezione generata dall'add-in in javascript</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 3467078241 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Exception</source>
+          <target>Eccezione</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 362766376 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the code for the serial port configuration</source>
+          <target>Spec</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 362766376 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Code</source>
+          <target>Codice</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 3678034265 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the connection status message for the selected serial port</source>
+          <target>Specifica il messaggio di stato della porta seriale selezionata</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 3678034265 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Status Message</source>
+          <target>Descrizione stato</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 4126130292 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Configuration</source>
+          <target>Configurazione</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 4263519608 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the number the idenfity the port on the list of the request devices. Is not che port name (ex. COM1), is the number on the decives array proposed by the requestPort</source>
+          <target>Specifica il numero identificativo della porta seriale. Non corrisponde al nome (es. COM1) ma è il numero della porta nell'elenco di quelle disponibili.</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 895105199 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the flow control type for the serial port</source>
+          <target>Specifica il tipo di handshake della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 967282452 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the boud rate for the serial port</source>
+          <target>Specifica il boud rate della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Serial Port Connection (SPM)</source>
+          <target>Connessione porta seriale (SPM)</target>
+        </trans-unit>
+        <trans-unit id="Page 1520953681 - Control 2206507320 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the date-time of the creation of the message</source>
+          <target>Specifica la data-ora della creazione del messaggio</target>
+        </trans-unit>
+        <trans-unit id="Page 1520953681 - Control 3080618677 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the content of the message</source>
+          <target>Specifica il contenuto del messaggio</target>
+        </trans-unit>
+        <trans-unit id="Page 1520953681 - Control 39585143 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the direction of the message</source>
+          <target>Specifica la direzione del messaggio</target>
+        </trans-unit>
+        <trans-unit id="Page 1520953681 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Serial Port Connectionn Subform (SPM)</source>
+          <target>Terminale conn. porta seriale (SPM)</target>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 1759782632 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the stop bits for the serial port</source>
+          <target>Specifica i stop bits della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 1860025631 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the buffer size for the serial port</source>
+          <target>Specifica la dimensione del buffer della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 2505414041 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the parity type for the serial port</source>
+          <target>Specifica il tipo di parità della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 2794064752 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the data bits for the serial port</source>
+          <target>Specifica i data bits della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 3004954119 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the configuration code of the serial port</source>
+          <target>Specifica il codice della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 3461834954 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the configuration description of the serial port</source>
+          <target>Specifica la descrizione della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 4263519608 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the number the idenfity the port on the list of the request devices. Is not che port name (ex. COM1), is the number on the decives array proposed by the requestPort</source>
+          <target>Specifica il numero identificativo della porta seriale. Non corrisponde al nome (es. COM1) ma è il numero della porta nell'elenco di quelle disponibili.</target>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 895105199 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the flow control type for the serial port</source>
+          <target>Specifica il tipo di handshake della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 967282452 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the boud rate for the serial port</source>
+          <target>Specifica il boud rate della porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Serial Port Configuration (SPM)</source>
+          <target>Configurazione porte seriali (SPM)</target>
+        </trans-unit>
+        <trans-unit id="PermissionSet 3852480145 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>SPM.Admin</source>
+          <target>SPM.Admin</target>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 1759782632 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Stop Bits</source>
+          <target>Stop bits</target>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 1860025631 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Buffer Size</source>
+          <target>Dimensione buffer</target>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 2505414041 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Parity</source>
+          <target>Parità</target>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 2794064752 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Data Bits</source>
+          <target>Data bits</target>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 3004954119 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Code</source>
+          <target>Codice</target>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 3461834954 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Description</source>
+          <target>Descrizione</target>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 4263519608 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Identifier No.</source>
+          <target>Nr. identificativo</target>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 895105199 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Flow Control</source>
+          <target>Handshake</target>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 967282452 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Baud Rate</source>
+          <target>Baud rate</target>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Serial Port</source>
+          <target>Porta seriale</target>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Field 2206507320 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Date-Time</source>
+          <target>Data-ora</target>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Field 3080618677 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Message</source>
+          <target>Messaggio</target>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Field 39585143 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Direction</source>
+          <target>Direzione</target>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Field 39585143 - Property 62802879" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Inbound,Outbound</source>
+          <target>In entrata,In uscita</target>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Field 883711285 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Nr. movimento</target>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Serial Port Buffer</source>
+          <target>Buffer porta seriale</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

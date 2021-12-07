@@ -1,0 +1,20 @@
+{
+    "name": "WSD.BC.19.Ruleset",
+    "rules": [
+        {
+            "id": "AS0084",
+            "action":"None",
+            "justification" : "The ID range '[50000..53000]' is not valid. It must be within the range allocated to the partner for AppSource, within the range '[1000000..75999999]' allocated to AppSource applications, and outside the range '[50000..99999]' allocated to per-tenant customizations."
+        },
+        {
+            "id": "AA0072",
+            "action": "None",
+            "justification": "The name of %2 is not valid. The name of variables and parameters must be suffixed with the type or object name."
+        },
+        {
+            "id": "AS0092",
+            "action": "None",
+            "justification": "The app.json file must specify an Azure Application Insights resource with the property 'applicationInsightsKey' for monitoring operations related to this extension. See https://docs.microsoft.com/dynamics365/business-central/dev-itpro/administration/telemetry-overview for additional information."
+        }
+    ]
+}
