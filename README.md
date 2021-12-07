@@ -14,12 +14,12 @@ It's cool because there's no need to create web services call or doing stuffs se
 
 The Serial Port Connection (SPM) page allow to test che connection, so if were already made a connection with a serial port is enough insert the Identifier No. and it will connect without prompt any request but, if is the first time there's no way to avoid an initial request of the port to deal with. 
 
-Placeholder image 1
+![port list](https://user-images.githubusercontent.com/64040399/145110272-a9a2f78c-3da7-4f38-9d9f-b5860cab7e15.png)
 
 Once the serial parameters are configured simply click open to establish the connection.
 All sent and received data are shown on the Terminal subpage under che configuration.
 
-Placeholder image 2
+![terminal sample](https://user-images.githubusercontent.com/64040399/145110291-30ad600f-0976-453d-9937-b1dc86e183e9.PNG)
 
 If any error or exceptions are triggered during the connection the status will become Failed and the message will show what happaned.
 
@@ -77,10 +77,10 @@ New-BcContainer -accept_eula `
 ```
 
 Create the container and then a certificate.cer will be available to download.
-It should be on a link like this one: http://{containername}:8080/certificate.cer
+It should be on a link like this one: http://{containername}:8080/certificate.cer.
 Add this certificate on your root folder on the certificate snap-in in mmc (if you don't know what I'm talking about search on the web how to add a certificate on your local computer). 
 For create a virtual serial port bridge I used this software [Virtual Serial Port](https://www.hhdsoftware.com/virtual-serial-ports).
-Is available free with low features but are enough for a simple implementathion.
+Is available free with low features but are enough for a simple implementation.
 
 ## Known issues
 
