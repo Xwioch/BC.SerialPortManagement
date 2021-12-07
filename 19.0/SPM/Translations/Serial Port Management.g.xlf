@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Serial Port Management">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1528967265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial Port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 967282452 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Baud Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port - Field Baud Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 1860025631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buffer Size</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port - Field Buffer Size - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 2794064752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Bits</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port - Field Data Bits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 895105199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flow Control</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port - Field Flow Control - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 4263519608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Identifier No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port - Field Identifier No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 2505414041 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port - Field Parity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1528967265 - Field 1759782632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stop Bits</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port - Field Stop Bits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial Port Buffer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port Buffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Field 2206507320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date-Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port Buffer - Field Date-Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Field 39585143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Direction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port Buffer - Field Direction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Field 39585143 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inbound,Outbound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port Buffer - Field Direction - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port Buffer - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4026949001 - Field 3080618677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SPM Serial Port Buffer - Field Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial Port Configuration (SPM)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Config. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 967282452 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the boud rate for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Config. - Control Baud Rate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 1860025631 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the buffer size for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Config. - Control Buffer Size - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the configuration code of the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Config. - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 2794064752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the data bits for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Config. - Control Data Bits - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the configuration description of the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Config. - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 895105199 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the flow control type for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Config. - Control Flow Control - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 4263519608 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number the idenfity the port on the list of the request devices. Is not che port name (ex. COM1), is the number on the decives array proposed by the requestPort</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Config. - Control Identifier No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 2505414041 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the parity type for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Config. - Control Parity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 64001301 - Control 1759782632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the stop bits for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Config. - Control Stop Bits - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1520953681 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial Port Connectionn Subform (SPM)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Conn. Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1520953681 - Control 2206507320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date-time of the creation of the message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Conn. Subform - Control Date-Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1520953681 - Control 39585143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the direction of the message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Conn. Subform - Control Direction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1520953681 - Control 3080618677 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the content of the message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Conn. Subform - Control Message - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial Port Connection (SPM)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 4126130292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control Configuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the configuration description of the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 967282452 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the boud rate for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control Baud Rate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1860025631 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the buffer size for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control Buffer Size - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 2794064752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the data bits for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control Data Bits - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 895105199 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the flow control type for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control Flow Control - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 4263519608 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number the idenfity the port on the list of the request devices. Is not che port name (ex. COM1), is the number on the decives array proposed by the requestPort</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control Identifier No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 2505414041 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the parity type for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control Parity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1759782632 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the stop bits for the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control Stop Bits - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1588750063 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the message must be sent with \r\n characters</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control AddLineFeed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1588750063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send with line feed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control AddLineFeed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 2487161833 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the message to send on the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control OutboundMessage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 2487161833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control OutboundMessage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 362766376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for the serial port configuration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control SerialPortCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 362766376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control SerialPortCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1620301654 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the connection status for the selected serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control ConnectionStatus - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1620301654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control ConnectionStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1620301654 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Connected,Failed,In Progress</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control ConnectionStatus - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 3467078241 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the exception from the javascript add-in</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control SerialException - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 3467078241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exception</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control SerialException - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 3678034265 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the connection status message for the selected serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control StatusMessage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 3678034265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control StatusMessage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 1051253129" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial connection closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control SPM Serial Port - Method StatusHandler - NamedType SerialConnClosedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 1001629221" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial connection established</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control SPM Serial Port - Method StatusHandler - NamedType SerialConnEstablishedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 3048632393" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial feature not available for the web browser. Check all the features on the settings or check if SSL is enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control SPM Serial Port - Method StatusHandler - NamedType SerialFeatureNotAvailErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 2830783094" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There was an error while trying to open or close the serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control SPM Serial Port - Method StatusHandler - NamedType SerialOpenFailedErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 2089806789" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connection is closing, this could take a while...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control SPM Serial Port - Method StatusHandler - NamedType SerialPortClosingMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1528967265 - Method 3509536664 - NamedType 2182730486" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There was a problem sending the message to the serial port. Check the communication</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control SPM Serial Port - Method StatusHandler - NamedType SerialSendFailedErr</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Control 1520953681 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terminal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Control SPM Serial Port Conn. Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 412498751 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete all the lines on the terminal subform</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Action Clear Terminal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 412498751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear Terminal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Action Clear Terminal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 3698873769 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close the connection with the selected serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Action Close Port - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 3698873769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close Port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Action Close Port - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 617737079 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the connection with the selected serial port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Action Open Port - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1277660811 - Action 617737079 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Port</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SPM Serial Port Connection - Action Open Port - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2265433141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flow Control Type (SPM)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SPM Flow Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2265433141 - EnumValue 3371220206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SPM Flow Control Type - EnumValue None - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2265433141 - EnumValue 229761720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hardware</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SPM Flow Control Type - EnumValue Two - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1296493595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parity Type (SPM)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SPM Parity Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1296493595 - EnumValue 459744604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Even</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SPM Parity Type - EnumValue Even - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1296493595 - EnumValue 3371220206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SPM Parity Type - EnumValue None - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1296493595 - EnumValue 1362454361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Odd</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SPM Parity Type - EnumValue Odd - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2349116022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stop Bits (SPM)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SPM Stop Bits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2349116022 - EnumValue 3592160600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SPM Stop Bits - EnumValue One - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2349116022 - EnumValue 229761720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Two</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SPM Stop Bits - EnumValue Two - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 3852480145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SPM.Admin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet SPM.Admin - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

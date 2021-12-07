@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "root"
+		},
+		{
+			"path": "19.0/SPM",
+			"name": "19.0 - SPM"
+		}
+	],
+	"settings": {
+		"al.packageCachePath": "../.alpackages",
+		"al.enableCodeAnalysis": true,
+		"al.codeAnalyzers": [
+			"${AppSourceCop}",
+			"${CodeCop}",
+			"${PerTenantExtensionCop}",
+			"${UICop}"
+		],
+		"al.ruleSetPath": "../AppRuleSet.json"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-dynamics-smb.al",
+			"waldo.crs-al-language-extension",
+			"rasmus.al-var-helper"
+		]
+	}
+}

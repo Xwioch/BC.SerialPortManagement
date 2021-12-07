@@ -1,0 +1,10 @@
+.al*
+.vs*
+*.app
+*.bak
+*.flf
+*.orig
+*.Gimli*
+TestResults.xml
+rad.json
+.output

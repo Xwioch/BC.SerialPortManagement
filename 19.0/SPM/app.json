@@ -1,0 +1,35 @@
+{
+  "id": "e52b2af0-286a-4327-bc1f-2b2ff4adbbf4",
+  "name": "Serial Port Management",
+  "publisher": "Xwioch",
+  "version": "19.0.0.0",
+  "brief": "Serial Port Management",
+  "description": "Handle serial port through web browser in business central using Web Serial API",
+  "logo": "./Image/SerialPortIcon.jpg",
+  "privacyStatement": "https://github.com/Xwioch/BC.SerialPortManagement",
+  "EULA": "https://github.com/Xwioch/BC.SerialPortManagement",
+  "url": "https://github.com/Xwioch/BC.SerialPortManagement",
+  "help": "https://github.com/Xwioch/BC.SerialPortManagement",
+  "contextSensitiveHelpUrl": "https://github.com/Xwioch/BC.SerialPortManagement",
+  "application": "19.0.0.0",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 61000,
+      "to": 61100
+    }
+  ],
+  "features": ["TranslationFile"],
+  "supportedLocales": [
+    "en-US",
+    "it-IT"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
